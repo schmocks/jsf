@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry exported="true" kind="lib" path="commons-beanutils-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="commons-codec-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="commons-collections-3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="commons-digester-1.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="commons-el.jar"/>
+	<classpathentry exported="true" kind="lib" path="commons-lang-2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="commons-logging.jar"/>
+	<classpathentry exported="true" kind="lib" path="jstl.jar"/>
+	<classpathentry exported="true" kind="lib" path="myfaces-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="myfaces-impl.jar"/>
+	<classpathentry exported="true" kind="lib" path="sandbox.jar"/>
+	<classpathentry exported="true" kind="lib" path="tomahawk.jar"/>
+	<classpathentry exported="true" kind="lib" path="commons-fileupload-1.0.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
